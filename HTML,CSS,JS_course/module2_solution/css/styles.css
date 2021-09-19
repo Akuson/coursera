@@ -47,6 +47,15 @@ h1
 	color: orange;
 	margin: 5%;
 }
+section
+{
+	float: left;
+	background-color: slateblue;
+	/*display: inline-block;*/
+	width: 96%;
+	margin: 0% 2% 2% 2%;
+	border: 5px solid orange;
+}
 @media (min-width: 992px)
 {
 	.triple
@@ -59,7 +68,6 @@ h1
 		border: 5px solid orange;
 	}
 }
-
 @media (max-width: 991px)
 {
 	.single
@@ -69,7 +77,6 @@ h1
 		/*display: inline-block;*/
 		width: 96%;
 		margin: 0% 2% 2% 2%;
-
 		border: 5px solid orange;
 	}
 	@media (min-width: 768px)
