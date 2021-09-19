@@ -4,6 +4,16 @@
 	margin: 0;
 	padding: 0;
 }
+html
+{
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+#container
+{
+	background-image: url("forest-floor-1031143_1920.jpg");
+	background-size: 100% 100%;
+}
 .head
 {
 	height: 18%;
@@ -29,12 +39,6 @@
 	background-color: yellow;
 	color: red;
 }
-
-#container
-{
-	background-image: url("forest-floor-1031143_1920.jpg");
-	background-size: 100% 100%;
-}
 h1
 {
 	text-align: center;
@@ -50,8 +54,8 @@ h1
 		float: left;
 		background-color: slateblue;
 		/*display: inline-block;*/
-		width: 31.033%;
-		margin: 5% 1% 5% 1%;
+		width: 30.666%;
+		margin: 0% 0% 2% 2%;
 		border: 5px solid orange;
 	}
 }
@@ -63,8 +67,9 @@ h1
 		float: left;
 		background-color: slateblue;
 		/*display: inline-block;*/
-		width: 98%;
-		margin: 5% 1% 5% 1%;
+		width: 96%;
+		margin: 0% 2% 2% 2%;
+
 		border: 5px solid orange;
 	}
 	@media (min-width: 768px)
@@ -74,8 +79,8 @@ h1
 			float: left;
 			background-color: slateblue;
 			/*display: inline-block;*/
-			width: 48%;
-			margin: 5% 1% 5% 1%;
+			width: 47%;
+			margin: 0% 0% 2% 2%;
 			border: 5px solid orange;
 		}
 	}
@@ -83,7 +88,7 @@ h1
 p
 {
 	font-family: monospace;
-	padding: 10%;
+	padding: 5%;
 	font-size: 15px;
 
 }
