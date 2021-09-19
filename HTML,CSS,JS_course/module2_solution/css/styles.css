@@ -20,8 +20,8 @@ html
 	width: 36%;
 	margin-left: 64%;
 	background-color: sienna;
-	border-bottom: 5px solid orange;
-	border-left: 5px solid orange;
+	border-bottom: 1px solid orange;
+	border-left: 1px solid orange;
 	text-align: center;
 	padding : 2% 4% 2% 4%;
 	font-family: monospace;
@@ -54,7 +54,7 @@ section
 	/*display: inline-block;*/
 	width: 96%;
 	margin: 0% 2% 2% 2%;
-	border: 5px solid orange;
+	border: 1px solid orange;
 }
 @media (min-width: 992px)
 {
@@ -65,7 +65,7 @@ section
 		/*display: inline-block;*/
 		width: 30.666%;
 		margin: 0% 0% 2% 2%;
-		border: 5px solid orange;
+		border: 1px solid orange;
 	}
 }
 @media (max-width: 991px)
@@ -77,7 +77,7 @@ section
 		/*display: inline-block;*/
 		width: 96%;
 		margin: 0% 2% 2% 2%;
-		border: 5px solid orange;
+		border: 1px solid orange;
 	}
 	@media (min-width: 768px)
 	{	
@@ -88,7 +88,7 @@ section
 			/*display: inline-block;*/
 			width: 47%;
 			margin: 0% 0% 2% 2%;
-			border: 5px solid orange;
+			border: 1px solid orange;
 		}
 	}
 }
