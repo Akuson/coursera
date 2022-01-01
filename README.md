@@ -1,3 +1,5 @@
+[HTML,CSS,JS Course Module 2 - Solution](https://akuson.github.io/coursera/HTML,CSS,JS_course/module2_solution/index.html)
+
 ## _Welcome to GitHub Pages_
 
 You can use the [editor on GitHub](https://github.com/Akuson/coursera/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
